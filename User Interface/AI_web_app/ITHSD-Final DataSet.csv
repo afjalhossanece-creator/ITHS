@@ -1,0 +1,470 @@
+RgSerialNO,UI,Location,ProductModel,ReceiveDate,Problem,Requisition,Solution,SolvedBy,Speciality,DeliveryDate
+1228,Male,CHO,HP CPU,01-07-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,01-07-25
+1229,Male,CHO,HP Laptop,01-07-25,New Laptop/CPU,Yes,Ready,Shajal,Monitor,01-07-25
+1230,Male,CHO,Acer CPU,01-07-25,OS Problem,No,Ready,Shajal,Monitor,Out
+1231,Male,Arkay,HP Printer,01-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,10-07-25
+1232,Male,Arkay,HP CPU,01-07-25,HDD,Yes,Ready,Sarju,CPU,13-07-25
+1233,Male,Arkay,Acer CPU,01-07-25,Not Work,No,Ready,Shajal,Monitor,02-07-25
+1234,Male,Arkay,Dell CPU,01-07-25,Not Work,No,Ready,Sarju,CPU,11-07-25
+1235,Male,AFL,Dell CPU,01-07-25,Not Work,No,Ready,Sarju,CPU,02-07-25
+1236,Male,CHO,Dell Monitor,01-07-25,Display,No,Ready,Shajal,Monitor,Out
+1237,Male,CHO,Dell Monitor,01-07-25,Display,Yes,Replace,Shajal,Monitor,01-07-25
+1238,Male,NKK,Dell Monitor,01-07-25,Not Work,No,Ready,Sarju,Monitor,02-07-25
+1239,Male,CHO,Lenovo Laptop,02-07-25,Keyboard/Touchpad,No,Ready,Shajal,Monitor,02-07-25
+1240,Male,CHO,HP Laptop,02-07-25,Not Work,No,Ready,Shajal,Monitor,02-07-25
+1241,Male,CHO,Dell Laptop,02-07-25,Not Work,No,Ready,Shuvo,Laptop,02-07-25
+1242,Male,CHO,Dell Laptop,02-07-25,Not Work,No,Ready,Shajal,Monitor,02-07-25
+1243,Male,Cortz,Projector,02-07-25,Not Work,No,Ready,Shajal,Monitor,05-07-25
+1244,Male,Cortz,Acer CPU,02-07-25,Not Work,No,Ready,Sarju,CPU,10-07-25
+1245,Male,Arkay,HP CPU,03-07-25,Auto-Restart,No,Ready,Shuvo,Laptop,03-07-25
+1246,Male,CHO,Lenovo Laptop,03-07-25,Keyboard/Touchpad,No,Ready,Shajal,Monitor,04-07-25
+1247,Male,CHO,Acer CPU,03-07-25,OS Problem,No,Ready,Sarju,CPU,03-07-25
+1248,Male,CHO,Dell CPU,03-07-25,OS Problem,No,Ready,Shajal,Monitor,03-07-25
+1249,Male,CHO,Dell CPU,03-07-25,Slow/Hang Problem,No,Ready,Sarju,CPU,03-07-25
+1250,Male,NKK,Dell Laptop,03-07-25,Display,No,Ready,Shajal,Monitor,04-07-25
+1251,Male,Arkay,Dell Laptop,03-07-25,HDD,Yes,Ready,Shajal,Monitor,04-07-25
+1252,Male,Arkay,Dell Laptop,03-07-25,Not Work,No,Ready,Shajal,Monitor,07-07-25
+1253,Male,Arkay,Dell CPU,03-07-25,Not Work,No,Ready,Sarju,CPU,09-07-25
+1254,Male,Safa,Epson Printer,03-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,07-07-25
+1255,Male,CHO,HP CPU,03-07-25,SSD,Yes,Ready,Shajal,Monitor,05-07-25
+1256,Male,Hamza,Acer Monitor,03-07-25,Not Work,No,Replace,Shajal,Monitor,04-07-25
+1257,Male,CHO,Dell Laptop,05-07-25,Motherboard,Yes,Servicing Issue,Sarju,CPU,15-07-25
+1258,Male,Nafa,Dell Monitor,05-07-25,Display,No,Ready,Sarju,Monitor,06-07-25
+1259,Male,CHO,Acer CPU,05-07-25,Battery,Yes,Ready,Shajal,Monitor,06-07-25
+1260,Male,CHO,HP Printer,05-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,09-07-25
+1261,Male,CHO,HP Laptop,07-07-25,HDD,Yes,Ready,Shuvo,Laptop,09-07-25
+1262,Male,CHO,Asus CPU,07-07-25,OS Problem,No,Ready,Sarju,CPU,08-07-25
+1263,Male,CHO,Lenovo Laptop,07-07-25,HDD,Yes,Ready,Sarju,CPU,08-07-25
+1264,Male,CHO,Epson Printer,07-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,07-07-25
+1265,Male,Cortz,Dell Laptop,07-07-25,SSD,Yes,Ready,Sarju,CPU,09-07-25
+1266,Male,Cortz,Acer Laptop,07-07-25,Slow/Hang Problem,No,Ready,Shuvo,Laptop,08-07-25
+1267,Male,CHO,HP Laptop,07-07-25,New Laptop/CPU,Yes,Ready,Shuvo,Monitor,08-07-25
+1268,Male,NKK,UPS,07-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,13-07-25
+1269,Male,CHO,UPS,07-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,13-07-25
+1270,Male,Cortz,Dell Monitor,07-07-25,Display,No,Ready,Sarju,Monitor,08-07-25
+1271,Male,ACCL,Acer CPU,07-07-25,Not Work,No,Ready,Sarju,CPU,08-07-25
+1272,Male,ACCL,Asus CPU,07-07-25,Slow/Hang Problem,No,Ready,Sarju,CPU,08-07-25
+1273,Male,CHO,Acer CPU,07-07-25,Not Work,No,Ready,Shajal,Monitor,10-07-25
+1274,Male,Arkay,Dell CPU,07-07-25,Not Work,No,Ready,Sarju,CPU,12-07-25
+1275,Male,Arkay,Canon Printer,07-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,10-07-25
+1276,Male,Safa,Acer Monitor,07-07-25,Display,Yes,Replace,Sarju,Monitor,15-07-25
+1277,Male,Safa,UPS,07-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,15-07-25
+1278,Male,Safa,UPS,07-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,15-07-25
+1279,Male,CHO,HP Laptop,08-07-25,Slow/Hang Problem,No,Ready,Shajal,Monitor,08-07-25
+1280,Male,CHO,Acer Laptop,08-07-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,08-07-25
+1281,Male,CHO,Lenovo Laptop,08-07-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,08-07-25
+1282,Male,CHO,Dell CPU,08-07-25,New Laptop/CPU,Yes,Ready,Shuvo,Monitor,08-07-25
+1283,Male,CHO,Dell CPU,08-07-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,08-07-25
+1284,Male,CHO,HP Printer,08-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,09-07-25
+1285,Male,Hamza,HP Laptop,08-07-25,Not Work,No,Ready,Shuvo,Laptop,09-07-25
+1286,Male,Hamza,Canon Printer,08-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,09-07-25
+1287,Male,CHO,HP CPU,09-07-25,New Laptop/CPU,Yes,Ready,Shuvo,Monitor,09-07-25
+1288,Male,CHO,Lenovo Laptop,09-07-25,Not Work,No,Ready,Shuvo,Laptop,09-07-25
+1289,Male,Cortz,Canon Printer,09-07-25,Print Problem,No,Ready,Moshiur,Monitor,14-07-25
+1290,Male,CHO,Dell CPU,09-07-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,09-07-15
+1291,Male,CHO,Canon Printer,09-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,13-07-25
+1292,Male,CHO,Canon Printer,09-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,13-07-25
+1293,Male,Nafa,HP Laptop,09-07-25,OS Problem,No,Ready,Sarju,CPU,10-07-25
+1294,Male,CHO,Dell Laptop,09-07-25,New Laptop/CPU,Yes,Ready,Shajal,Monitor,09-07-25
+1295,Male,CHO,Acer Laptop,10-07-25,Slow/Hang Problem,No,Ready,Shajal,Monitor,10-07-25
+1296,Male,ACML,Acer CPU,10-07-25,Not Work,No,Ready,Shajal,Monitor,15-07-25
+1297,Male,ACML,Canon Printer,10-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,15-07-25
+1298,Male,Hamza,Projector,10-07-25,Not Work,No,Ready,Shajal,Monitor,14-07-25
+1299,Male,Cortz,Asus CPU,10-07-25,Not Work,No,Ready,Sarju,CPU,14-07-25
+1300,Male,Azmeri,UPS,10-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,13-07-25
+1301,Male,CHO,Lenovo Laptop,10-07-25,New Laptop/CPU,Yes,Ready,Shajal,Monitor,11-07-25
+1302,Male,NKK,HP Laptop,11-07-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,13-07-25
+1303,Male,CHO,Printer,11-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,14-07-25
+1304,Male,CHO,Printer,12-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,14-07-25
+1305,Male,CHO,HP Laptop,12-07-25,Keyboard/Touchpad,No,Ready,Shajal,Monitor,14-07-25
+1306,Male,CHO,HP CPU,13-07-25,Auto-Restart,No,Ready,Shajal,Monitor,13-07-25
+1307,Male,Nafa,UPS,13-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,16-07-25
+1308,Male,CHO,Dell CPU,13-07-25,OS Problem,No,Ready,Sarju,CPU,15-07-25
+1309,Male,CHO,Dell Laptop,13-07-25,New Laptop/CPU,Yes,Ready,Shajal,Monitor,13-07-25
+1310,Male,Cortz,Canon Printer,13-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,15-07-25
+1311,Male,Arkay,HP Printer,13-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,17-07-25
+1312,Male,Arkay,UPS,13-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,15-07-25
+1313,Male,Arkay,Dell CPU,13-07-25,Not Work,No,Ready,Sarju,CPU,15-07-25
+1314,Male,CHO,Lenovo Laptop,13-07-25,New Laptop/CPU,Yes,Ready,Shuvo,Laptop,13-07-25
+1315,Male,ACCL,Scanner,13-07-25,Not Work,No,Ready,Shajal,Monitor,14-07-25
+1316,Male,CHO,HP Laptop,13-07-25,Keyboard/Touchpad,No,Ready,Shajal,Monitor,14-07-25
+1317,Male,Badda Parking,Dell CPU,13-07-25,New Laptop/CPU,Yes,Ready,Shajal,Monitor,14-07-25
+1318,Male,Badda Parking,Dell CPU,13-07-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,14-07-25
+1319,Male,CHO,HP Laptop,14-07-25,New Laptop/CPU,Yes,Ready,Shajal,Monitor,14-07-15
+1320,Male,CHO,HP Printer,14-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,18-07-25
+1321,Male,CHO,Dell Laptop,14-07-25,Broken Issue,Yes,Ready,Shajal,Monitor,18-07-25
+1322,Male,CHO,Dell Laptop,14-07-25,Not Work,No,Ready,Sarju,CPU,14-07-25
+1323,Male,CHO,Asus CPU,14-07-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,15-07-25
+1324,Male,CHO,Epson Printer,14-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,15-07-25
+1325,Male,CHO,HP Laptop,14-07-25,HDD,Yes,Ready,Sarju,CPU,15-07-25
+1326,Male,Arkay,Dell CPU,14-07-25,Not Work,No,Ready,Shajal,Monitor,Out
+1327,Male,CHO,HP Printer,14-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,18-07-25
+1328,Male,Hamza,UPS,14-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,19-07-25
+1329,Male,ACCL,HP Laptop,15-07-25,Battery,Yes,Ready,Shuvo,Laptop,19-07-25
+1330,Male,Safa,HP Laptop,15-07-25,OS Problem,No,Ready,Shajal,Monitor,21-07-25
+1331,Male,CHO,HP Laptop,15-07-25,New Laptop/CPU,Yes,Ready,Shuvo,Laptop,16-07-25
+1332,Male,Safa,UPS,15-07-25,Battery,Yes,Ready,Moshiur,Printer/UPS,19-07-25
+1333,Male,CHO,Acer CPU,15-07-25,SSD,Yes,Ready,Shajal,Monitor,16-07-25
+1334,Male,CHO,Dell CPU,15-07-25,OS Problem,No,Ready,Sarju,CPU,17-07-25
+1335,Male,ALP,Acer CPU,15-07-25,Not Work,No,Ready,Shajal,Monitor,20-07-25
+1336,Male,ALP,Epson Printer,15-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,29-07-25
+1337,Male,CHO,Lenovo Laptop,15-07-25,New Laptop/CPU,Yes,Ready,Shajal,Monitor,15-07-25
+1338,Male,CHO,HP Laptop,15-07-25,New Laptop/CPU,Yes,Ready,Shajal,Monitor,16-07-25
+1339,Male,CHO,HP CPU,15-07-25,Motherboard,Yes,Ready,Shajal,Monitor,18-07-25
+1340,Male,CHO,HP Laptop,16-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,16-07-25
+1341,Male,CHO,Dell Laptop,16-07-25,OS Problem,No,Ready,Shajal,Monitor,17-07-25
+1342,Male,CHO,HP Printer,16-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,17-07-05
+1343,Male,CHO,HP Printer,16-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,17-07-25
+1344,Male,CHO,HP Printer,16-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,18-07-25
+1345,Male,CHO,Lenovo Laptop,16-07-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,17-07-25
+1346,Male,Cortz,UPS,16-07-25,Not Work,No,Warranty Issue,Moshiur,Printer/UPS,16-07-25
+1347,Male,Cortz,Epson Printer,16-07-25,Not Work,No,Warranty Issue,Moshiur,Printer/UPS,16-07-25
+1348,Male,Cortz,Epson Printer,16-07-25,Not Work,No,Warranty Issue,Moshiur,Printer/UPS,16-07-25
+1349,Male,CHO,UPS,16-07-25,Battery,Yes,Ready,Moshiur,Printer/UPS,19-07-25
+1350,Male,CHO,Dell Laptop,16-07-25,Not Work,No,Ready,Shajal,Monitor,16-07-25
+1351,Male,CHO,Asus Monitor,16-07-25,Not Work,No,Ready,Shajal,Monitor,16-07-25
+1352,Male,CHO,HP Laptop,17-07-25,Broken Issue,Yes,Ready,Shajal,Monitor,17-07-25
+1353,Male,CHO,Acer CPU,17-07-25,Slow/Hang Problem,No,Ready,Sarju,CPU,17-07-25
+1354,Male,CHO,Projector,17-07-25,Lamp/Temp,No,Ready,Shajal,Monitor,17-07-25
+1355,Male,CHO,Acer Laptop,17-07-25,Keyboard/Touchpad,No,Ready,Shajal,Monitor,17-07-25
+1356,Male,CHO,Epson Printer,17-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,21-07-25
+1357,Male,CHO,HP Laptop,17-07-25,Slow/Hang Problem,No,Ready,Sarju,CPU,17-07-25
+1358,Male,NKK,Acer Monitor,17-07-25,Display,Yes,Replace,Shajal,Monitor,17-07-25
+1359,Male,ACML,Canon Printer,17-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,21-07-25
+1360,Male,ACML,Acer CPU,17-07-25,Auto-Restart,No,Replace,Sarju,CPU,17-07-25
+1361,Male,CHO,Dell Laptop,17-07-25,Not Work,No,Ready,Shajal,Monitor,17-07-25
+1362,Male,CHO,Acer Laptop,18-07-25,Battery,Yes,Ready,Shajal,Monitor,20-07-25
+1363,Male,CHO,Acer CPU,19-07-25,OS Problem,No,Ready,Shuvo,Laptop,18-07-25
+1364,Male,CHO,Lenovo Laptop,19-07-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,20-07-25
+1365,Male,Cortz,Acer CPU,19-07-25,Not Work,No,Ready,Shajal,Monitor,20-07-25
+1366,Male,Cortz,Acer Monitor,19-07-25,Display,No,Ready,Shajal,Monitor,19-07-25
+1367,Male,CHO,Dell CPU,19-07-25,Not Work,No,Ready,Shajal,Monitor,19-07-25
+1368,Male,CHO,Dell CPU,19-07-25,Not Work,No,Ready,Shuvo,Laptop,20-07-25
+1369,Male,Arkay,Dell CPU,19-07-25,Not Work,No,Ready,Sarju,CPU,20-07-25
+1370,Male,Arkay,Dell CPU,19-07-25,HDD,Yes,Ready,Sarju,CPU,21-07-25
+1371,Male,Arkay,Dell CPU,19-07-25,Not Work,No,Ready,Sarju,CPU,21-07-25
+1372,Male,Arkay,HP Printer,19-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,21-07-25
+1373,Male,Nafa,Acer CPU,19-07-25,Motherboard,Yes,Ready,Shajal,Monitor,21-07-25
+1374,Male,Nafa,Acer CPU,19-07-25,Not Work,No,Ready,Shuvo,Laptop,20-07-25
+1375,Male,CHO,HP Laptop,19-07-25,Slow/Hang Problem,No,Ready,Shuvo,Laptop,19-07-25
+1376,Male,CHO,HP Laptop,20-07-25,New Laptop/CPU,Yes,Ready,Shajal,Monitor,20-07-25
+1377,Male,CHO,Canon Printer,20-07-25,Color Problem,No,Ready,Moshiur,Printer/UPS,21-07-25
+1378,Male,CHO,Canon Printer,20-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,21-07-25
+1379,Male,CHO,Asus CPU,20-07-25,SSD,Yes,Ready,Shuvo,Laptop,21-07-25
+1380,Male,CHO,Asus Laptop,20-07-25,OS Problem,No,Ready,Moshiur,Printer/UPS,21-07-25
+1381,Male,CHO,Dell Laptop,20-07-25,Keyboard/Touchpad,No,Ready,Shajal,Monitor,21-07-25
+1382,Male,ACCL,UPS,20-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,24-07-25
+1383,Male,ACCL,UPS,20-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,24-07-25
+1384,Male,CHO,HP Printer,20-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,Out
+1385,Male,Nafa,UPS,20-07-25,Not Work,No,Replace,Moshiur,Printer/UPS,27-07-25
+1386,Male,Nafa,Canon Printer,20-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,27-07-25
+1387,Male,ALP,HP Printer,20-07-25,Color Problem,No,Ready,Moshiur,Printer/UPS,28-07-25
+1388,Male,ACCL,Dell CPU,20-07-25,Auto-Restart,No,Ready,Shajal,Monitor,19-08-25
+1389,Male,CHO,HP Printer,21-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,22-07-25
+1390,Male,CHO,Dell CPU,21-07-25,Not Work,No,Ready,Sarju,CPU,21-07-25
+1391,Male,CHO,Acer Laptop,21-07-25,SSD,Yes,Ready,Sarju,CPU,21-07-25
+1392,Male,CHO,HP Laptop,21-07-25,OS Problem,No,Ready,Shajal,Monitor,21-07-25
+1393,Male,Cortz,Canon Printer,21-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,26-07-25
+1394,Male,CHO,HP Printer,21-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,25-07-25
+1395,Male,CHO,Dell Laptop,21-07-25,Not Work,No,Ready,Shuvo,Laptop,22-07-25
+1396,Male,CHO,Lenovo Laptop,21-07-25,SSD,Yes,Ready,Sarju,CPU,22-07-25
+1397,Male,CHO,UPS,21-07-25,Battery,Yes,Ready,Moshiur,Printer/UPS,29-07-25
+1398,Male,CHO,HP Printer,22-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,23-07-28
+1399,Male,CHO,HP Laptop,22-07-25,New Laptop/CPU,Yes,Ready,Shajal,Monitor,22-07-25
+1400,Male,CHO,HP Laptop,22-07-25,Battery,Yes,Ready,Shuvo,Laptop,23-07-25
+1401,Male,CHO,Lenovo Laptop,22-07-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,22-07-25
+1402,Male,Safa,Dell CPU,22-07-25,Not Work,No,Ready,Shuvo,Laptop,23-07-25
+1403,Male,Cortz,Acer Monitor,22-07-25,Display,No,Ready,Shajal,Monitor,22-07-25
+1404,Male,Gulshan-29,Dell CPU,22-07-25,SSD,Yes,Ready,Shajal,Monitor,22-07-25
+1405,Male,CHO,Dell CPU,22-07-25,OS Problem,No,Ready,Shajal,Monitor,23-07-25
+1406,Male,Gulshan-29,UPS,23-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,24-07-25
+1407,Male,CHO,HP Printer,23-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,26-07-25
+1408,Male,CHO,Lenovo Laptop,24-07-25,Keyboard/Touchpad,No,Ready,Sarju,CPU,27-07-25
+1409,Male,CHO,HP Laptop,24-07-25,Battery,Yes,Ready,Shuvo,Laptop,24-07-25
+1410,Male,CHO,Acer Monitor,24-07-25,Not Work,No,Ready,Sarju,Monitor,24-07-25
+1411,Male,Arkay,Dell CPU,24-07-25,OS Problem,No,Ready,Sarju,CPU,27-07-25
+1412,Male,Arkay,UPS,24-07-25,Battery,Yes,Ready,Moshiur,Printer/UPS,30-07-25
+1413,Male,CHO,Lenovo CPU,24-07-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,29-07-25
+1414,Male,CHO,HP Printer,24-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,29-07-25
+1415,Male,Hamza,Acer Laptop,24-07-25,Motherboard,Yes,Ready,Shajal,Monitor,25-07-25
+1416,Male,Hamza,Acer Monitor,24-07-25,Display,Yes,Replace,Shajal,Monitor,24-07-25
+1417,Male,Hamza,Acer Monitor,24-07-25,Display,No,Ready,Shajal,Monitor,24-07-25
+1418,Male,Safa,Dell CPU,24-07-25,OS Problem,No,Ready,Shuvo,Laptop,26-07-25
+1419,Male,Nafa,Canon Printer,24-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,26-07-25
+1420,Male,Nafa,Epson Printer,24-07-25,Color Problem,No,Ready,Moshiur,Printer/UPS,26-07-25
+1421,Male,ACML,Canon Printer,24-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,03-08-25
+1422,Male,ACML,Canon Printer,24-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,03-08-25
+1423,Male,ACCL,Acer CPU,26-07-25,HDD,Yes,Ready,Sarju,CPU,27-07-25
+1424,Male,Arkay,Dell CPU,26-07-25,HDD,Yes,Ready,Shajal,Monitor,29-07-25
+1425,Male,Arkay,Asus Monitor,26-07-25,Not Work,No,Replace,Shajal,Monitor,27-07-25
+1426,Male,Arkay,HP Printer,26-07-26,Print Problem,No,Ready,Moshiur,Printer/UPS,02-08-25
+1427,Male,CHO,HP Laptop,27-07-25,Not Work,No,Ready,Shajal,Monitor,29-07-25
+1428,Male,CHO,HP CPU,27-07-25,OS Problem,No,Ready,Sarju,CPU,27-07-25
+1429,Male,CHO,HP Laptop,27-07-25,Slow/Hang Problem,No,Ready,Shajal,Monitor,27-07-25
+1430,Male,Gulshan-29,Acer CPU,27-07-25,OS Problem,No,Ready,Shajal,Monitor,27-07-25
+1431,Male,CHO,HP Laptop,27-07-25,Not Work,No,Ready,Sarju,CPU,27-07-25
+1432,Male,Safa,Dell CPU,27-07-25,Motherboard,Yes,Ready,Sarju,CPU,28-07-25
+1433,Male,Badda Parking,Dell CPU,27-07-25,SSD,Yes,Ready,Sarju,CPU,28-07-25
+1434,Male,KM,HP Printer,27-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,29-07-25
+1435,Male,ACCL,HP Printer,27-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,30-07-25
+1436,Male,CHO,HP Laptop,28-07-25,New Laptop/CPU,Yes,Ready,Shajal,Monitor,29-07-25
+1437,Male,CHO,Dell CPU,28-07-25,New Laptop/CPU,Yes,Ready,Shajal,Monitor,29-07-25
+1438,Male,CHO,Canon Printer,28-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,01-08-25
+1439,Male,CHO,Lenovo Laptop,28-07-25,Slow/Hang Problem,No,Ready,Sarju,CPU,28-07-25
+1440,Male,Safa,Dell CPU,28-07-25,Slow/Hang Problem,No,Ready,Sarju,CPU,01-08-25
+1441,Male,Safa,Dell CPU,28-07-25,Not Work,No,Ready,Shajal,Monitor,28-07-25
+1442,Male,Azmeri,Lenovo Monitor,28-07-25,Not Work,No,Warranty Issue,Shajal,Monitor,04-08-25
+1443,Male,CHO,Asus Laptop,28-07-25,Slow/Hang Problem,No,Ready,Shuvo,Laptop,30-07-25
+1444,Male,CHO,UPS,28-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,04-08-25
+1445,Male,CHO,HP Laptop,29-07-25,HDD,Yes,Ready,Sarju,CPU,29-07-25
+1446,Male,CHO,Lenovo Laptop,29-07-25,Keyboard/Touchpad,No,Ready,Sarju,CPU,30-07-25
+1447,Male,CHO,Dell Laptop,29-07-25,Motherboard,Yes,Ready,Moshiur,Printer/UPS,29-07-25
+1448,Male,CHO,Dell Laptop,29-07-25,Slow/Hang Problem,No,Ready,Moshiur,Printer/UPS,29-07-25
+1449,Male,Cortz,Canon Printer,29-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,07-08-25
+1450,Male,Nafa,Acer Monitor,29-07-25,Display,No,Ready,Shajal,Monitor,29-07-25
+1451,Male,CHO,Acer CPU,29-07-25,Not Work,No,Ready,Shajal,Monitor,30-07-25
+1452,Male,CHO,UPS,29-07-25,Battery,Yes,Ready,Moshiur,Printer/UPS,04-08-25
+1453,Male,CHO,Acer Laptop,29-07-25,Battery,Yes,Ready,Sarju,CPU,30-07-25
+1454,Male,CHO,Acer CPU,30-07-25,SSD,Yes,Ready,Sarju,CPU,30-07-25
+1455,Male,CHO,UPS,30-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,05-08-25
+1456,Male,CHO,HP Laptop,30-07-25,Battery,Yes,Ready,Moshiur,Printer/UPS,31-07-25
+1457,Male,CHO,Lenovo Laptop,30-07-25,Motherboard,Yes,Ready,Shajal,Monitor,02-08-25
+1458,Male,CHO,HP Printer,30-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,03-08-25
+1459,Male,CHO,Dell Laptop,30-07-25,Auto-Restart,No,Ready,Shajal,Monitor,02-08-25
+1460,Male,CHO,HP CPU,30-07-25,OS Problem,No,Ready,Sarju,CPU,03-08-25
+1461,Male,CHO,Canon Printer,30-07-25,Print Problem,No,Ready,Moshiur,Printer/UPS,31-07-25
+1462,Male,ACML,Dell CPU,30-07-25,Auto-Restart,No,Ready,Shajal,Monitor,12-08-25
+1463,Male,CHO,Dell Laptop,30-07-25,Not Work,No,Ready,Shajal,Monitor,12-08-25
+1464,Male,CHO,HP Laptop,30-07-25,HDD,Yes,Ready,Shajal,Monitor,31-07-25
+1465,Male,CHO,Dell Laptop,31-07-25,OS Problem,No,Ready,Sarju,CPU,31-07-25
+1466,Male,CHO,Dell CPU,31-07-25,SSD,Yes,Ready,Shuvo,Laptop,31-07-25
+1467,Male,CHO,Dell CPU,31-07-25,OS Problem,No,Ready,Sarju,CPU,31-07-25
+1468,Male,CHO,Epson Printer,31-07-25,Not Work,No,Ready,Moshiur,Printer/UPS,01-08-25
+1469,Male,CHO,Lenovo Laptop,31-07-25,New Laptop/CPU,Yes,Ready,Shajal,Monitor,01-08-25
+1470,Male,CHO,Dell CPU,31-07-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,01-08-25
+1471,Male,Cortz,Projector,31-07-25,Not Work,No,Ready,Shajal,Monitor,03-08-25
+1472,Male,Nafa,Dell CPU,31-07-25,Not Work,No,Ready,Shajal,Monitor,07-08-25
+1473,Male,CHO,Lenovo Laptop,31-07-25,New Laptop/CPU,Yes,Ready,Shajal,Monitor,31-07-25
+1474,Male,ACML,Dell CPU,31-07-25,HDD,Yes,Ready,Sarju,CPU,17-08-25
+1475,Male,ACML,Dell CPU,31-07-25,Not Work,No,Ready,Shajal,Monitor,12-08-25
+1476,Male,Nafa,Asus CPU,31-07-25,Motherboard,Yes,Ready,Shajal,Monitor,02-08-25
+1477,Male,Cortz,Acer CPU,02-08-25,Slow/Hang Problem,No,Ready,Shuvo,Laptop,04-09-25
+1478,Male,Cortz,HP Printer,02-08-25,Color Problem,No,Ready,Moshiur,Printer/UPS,06-08-25
+1479,Male,ACML,HP Printer,02-08-25,Color Problem,No,Ready,Moshiur,Printer/UPS,06-08-25
+1480,Male,CHO,UPS,03-08-00,Battery,Yes,Warranty Issue,Moshiur,Printer/UPS,04-09-25
+1481,Male,Gulshan-29,Acer CPU,03-08-25,Auto-Restart,No,Ready,Shajal,Monitor,04-08-25
+1482,Male,Arkay,Acer CPU,03-08-25,Motherboard,Yes,Ready,Shajal,Monitor,04-08-25
+1483,Male,Arkay,Acer CPU,03-08-25,Not Work,No,Ready,Shajal,Monitor,04-08-25
+1484,Male,CHO,Lenovo Laptop,03-08-25,New Laptop/CPU,Yes,Ready,Shajal,Monitor,04-08-25
+1485,Male,CHO,Lenovo Laptop,03-08-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,04-08-25
+1486,Male,ACML,Acer Monitor,03-08-25,Not Work,No,Replace,Shajal,Monitor,03-08-25
+1487,Male,CHO,Epson Printer,03-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,03-08-25
+1488,Male,CHO,Lenovo Laptop,03-08-25,New Laptop/CPU,Yes,Ready,Shajal,Monitor,03-08-25
+1489,Male,ALP,Epson Printer,03-08-25,Not Work,No,Ready,Moshiur,Printer/UPS,11-08-25
+1490,Male,CHO,HP Printer,03-08-25,Color Problem,No,Ready,Moshiur,Printer/UPS,07-08-25
+1491,Male,Safa,Acer CPU,03-08-25,Auto-Restart,No,Ready,Shajal,Monitor,05-08-25
+1492,Male,Safa,Dell CPU,03-08-25,Motherboard,Yes,Servicing Issue,Sarju,CPU,05-08-25
+1493,Male,CHO,Lenovo Laptop,04-08-25,New Laptop/CPU,Yes,Ready,Shuvo,Laptop,04-08-25
+1494,Male,CHO,Lenovo Laptop,04-08-25,New Laptop/CPU,Yes,Ready,Shajal,Monitor,04-08-25
+1495,Male,CHO,HP Laptop,04-08-25,Not Work,No,Ready,Sarju,CPU,04-08-25
+1496,Male,CHO,Dell CPU,04-08-25,OS Problem,No,Ready,Shajal,Monitor,07-08-25
+1497,Male,CHO,Lenovo Laptop,06-08-25,New Laptop/CPU,Yes,Ready,Shajal,Monitor,06-08-25
+1498,Female,CHO,Lenovo Laptop,06-08-25,New Laptop/CPU,Yes,Ready,Shuvo,Monitor,06-08-25
+1499,Male,CHO,Lenovo Laptop,06-08-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,06-08-25
+1500,Male,CHO,Dell Laptop,06-08-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,06-08-25
+1501,Male,CHO,HP Laptop,06-08-25,HDD,Yes,Ready,Sarju,CPU,06-08-25
+1502,Male,CHO,Dell CPU,06-08-25,Motherboard,Yes,Ready,Shuvo,Laptop,06-08-25
+1503,Male,CHO,HP CPU,06-08-25,OS Problem,No,Ready,Shuvo,Laptop,06-08-25
+1504,Male,CHO,Acer Laptop,06-08-25,New Laptop/CPU,Yes,Ready,Shuvo,Laptop,06-08-25
+1505,Male,KM,Epson Printer,06-08-25,Color Problem,No,Ready,Moshiur,Printer/UPS,09-08-25
+1506,Male,CHO,Asus CPU,06-08-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,11-08-25
+1507,Male,ACML,Acer Monitor,06-08-25,Display,Yes,Replace,Shajal,Monitor,06-08-25
+1508,Male,CHO,HP Printer,06-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,07-08-25
+1509,Male,ALP,Epson Printer,06-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,10-08-25
+1510,Male,ALP,Projector,06-08-25,Lamp/Temp,No,Ready,Shajal,Monitor,20-08-25
+1511,Male,ACCL,HP CPU,06-08-25,Not Work,No,Warranty Issue,Sarju,CPU,06-08-25
+1512,Male,CHO,Dell Laptop,06-08-25,New Laptop/CPU,Yes,Ready,Shuvo,Laptop,07-08-25
+1513,Male,Safa,Projector,06-08-25,Not Work,No,Servicing Issue,Shajal,Monitor,07-08-25
+1514,Male,CHO,Lenovo Laptop,06-08-25,Auto-Restart,No,Ready,Sarju,CPU,07-08-25
+1515,Male,CHO,Epson Printer,07-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,07-08-25
+1516,Male,CHO,Canon Printer,07-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,09-08-25
+1517,Male,CHO,Lenovo Laptop,07-08-25,New Laptop/CPU,Yes,Ready,Shajal,Monitor,07-08-25
+1518,Male,CHO,Asus CPU,07-08-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,09-08-25
+1519,Male,CHO,UPS,07-08-25,Battery,Yes,Ready,Moshiur,Printer/UPS,11-08-25
+1520,Female,CHO,Epson Printer,07-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,09-08-25
+1521,Male,CHO,Dell CPU,09-08-25,Slow/Hang Problem,No,Ready,Sarju,CPU,10-08-25
+1522,Male,Cortz,Canon Printer,09-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,13-08-25
+1523,Male,Azmeri,HP Printer,09-08-25,Color Problem,No,Ready,Moshiur,Printer/UPS,13-08-25
+1524,Male,Nafa,Canon Printer,09-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,12-08-25
+1525,Male,Arkay,Canon Printer,09-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,20-08-25
+1526,Male,Arkay,Asus Monitor,09-08-25,Display,Yes,Replace,Sarju,Monitor,09-08-25
+1527,Male,CHO,UPS,10-08-25,Battery,Yes,Ready,Moshiur,Printer/UPS,15-08-25
+1528,Male,CHO,Dell CPU,10-08-25,Motherboard,Yes,Ready,Sarju,CPU,11-08-25
+1529,Male,Badda Parking,HP Printer,10-08-25,Print Problem,No,Ready,Shajal,Monitor,10-08-25
+1530,Male,Nafa,HP Laptop,10-08-25,Battery,Yes,Ready,Shajal,Monitor,01-09-25
+1531,Male,CHO,Canon Printer,10-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,13-08-25
+1532,Male,Cortz,UPS,10-08-25,Battery,Yes,Ready,Moshiur,Printer/UPS,11-08-25
+1532.1,Male,CHO,Dell Laptop,11-08-25,Not Work,No,Ready,Shuvo,Laptop,12-08-25
+1533,Male,CHO,Dell Laptop,11-08-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,12-08-25
+1534,Male,CHO,Asus Laptop,11-08-25,Slow/Hang Problem,No,Ready,Shajal,Monitor,20-08-25
+1535,Male,ACML,Dell CPU,11-08-25,HDD,Yes,Ready,Sarju,CPU,24-08-25
+1536,Male,ACML,HP Printer,11-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,13-08-25
+1537,Male,Cortz,Canon Printer,11-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,20-08-25
+1538,Male,Arkay,Dell Monitor,11-08-25,Not Work,No,Replace,Shajal,Monitor,11-08-25
+1539,Male,Arkay,Dell CPU,11-08-25,Not Work,No,Servicing Issue,Sarju,CPU,25-08-25
+1540,Female,CHO,Lenovo Laptop,11-08-25,OS Problem,No,Ready,Shuvo,Laptop,11-08-25
+1541,Male,CHO,HP Printer,11-08-25,Color Problem,No,Ready,Moshiur,Printer/UPS,12-08-25
+1542,Male,Hamza,Lenovo Laptop,12-08-25,Slow/Hang Problem,No,Ready,Shajal,Monitor,19-08-25
+1543,Male,CHO,Dell Laptop,12-08-25,Not Work,No,Ready,Moshiur,Printer/UPS,12-08-25
+1544,Male,CHO,Dell Laptop,12-08-25,Battery,Yes,Ready,Shuvo,Laptop,18-08-25
+1545,Male,CHO,Lenovo Laptop,12-08-25,Slow/Hang Problem,No,Ready,Sarju,CPU,13-08-25
+1546,Male,CHO,UPS,12-08-25,Battery,Yes,Ready,Moshiur,Printer/UPS,18-08-25
+1547,Male,ACCL,Acer Monitor,12-08-25,Not Work,No,Replace,Sarju,Monitor,13-08-25
+1548,Male,ALP,Acer Laptop,12-08-25,Motherboard,Yes,Ready,Sarju,CPU,13-08-25
+1549,Male,Arkay,Asus Laptop,12-08-25,Battery,Yes,Ready,Moshiur,Printer/UPS,12-08-25
+1550,Male,CHO,HP CPU,12-08-25,Auto-Restart,No,Warranty Issue,Shuvo,Laptop,18-08-25
+1551,Male,KM,Acer CPU,12-08-25,OS Problem,No,Ready,Sarju,CPU,13-08-25
+1552,Male,KM,Asus CPU,12-08-25,Auto-Restart,No,Ready,Shajal,Monitor,13-08-25
+1553,Male,CHO,Epson Printer,13-08-25,Color Problem,No,Ready,Moshiur,Printer/UPS,16-08-25
+1554,Female,CHO,HP CPU,13-08-25,Auto-Restart,No,Ready,Shajal,Monitor,13-08-25
+1555,Male,CHO,HP Laptop,13-08-25,OS Problem,No,Ready,Sarju,CPU,13-08-25
+1556,Male,CHO,HP Printer,13-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,17-08-25
+1557,Male,CHO,UPS,13-08-25,Battery,Yes,Ready,Moshiur,Printer/UPS,20-08-25
+1558,Male,CHO,Asus CPU,13-08-25,Auto-Restart,No,Ready,Sarju,CPU,14-08-25
+1559,Male,Arkay,Epson Printer,13-08-25,Print Problem,No,Servicing Issue,Moshiur,Printer/UPS,18-08-25
+1560,Female,Nafa,Acer Monitor,13-08-25,Not Work,No,Replace,Sarju,Monitor,14-08-25
+1561,Male,ACML,Canon Printer,13-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,31-08-25
+1562,Male,ACML,Epson Printer,13-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,17-08-25
+1563,Male,CHO,Lenovo Laptop,14-08-25,Motherboard,Yes,Ready,Shuvo,Laptop,14-08-25
+1564,Male,CHO,Lenovo Laptop,14-08-25,HDD,Yes,Ready,Shajal,Monitor,14-08-25
+1565,Male,CHO,Dell CPU,14-08-25,SSD,Yes,Ready,Sarju,CPU,14-08-25
+1566,Male,Cortz,Dell Laptop,14-08-25,OS Problem,No,Ready,Shuvo,Laptop,25-08-25
+1567,Male,Arkay,Acer Monitor,14-08-25,Not Work,No,Replace,Sarju,Monitor,14-08-25
+1568,Male,CHO,HP Printer,14-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,18-08-25
+1569,Male,CHO,HP Laptop,14-08-25,OS Problem,No,Ready,Sarju,CPU,15-08-25
+1570,Male,CHO,Dell Laptop,14-08-25,Not Work,No,Ready,Shajal,Monitor,14-08-25
+1571,Male,CHO,HP Laptop,16-08-25,HDD,Yes,Ready,Shuvo,Laptop,16-08-25
+1572,Male,ALP,HP Printer,16-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,23-08-25
+1573,Male,NKK,UPS,16-08-25,Battery,Yes,Ready,Moshiur,Printer/UPS,23-08-25
+1574,Male,Cortz,Canon Printer,16-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,20-08-25
+1575,Male,ALP,Canon Printer,16-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,23-08-25
+1576,Male,ALP,HP Printer,16-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,16-08-25
+1577,Male,Nafa,Lenovo Laptop,16-08-25,Keyboard/Touchpad,No,Ready,Sarju,CPU,18-08-25
+1578,Male,Nafa,UPS,16-08-25,Battery,Yes,Ready,Moshiur,Printer/UPS,16-08-25
+1579,Male,CHO,Dell CPU,16-08-25,SSD,Yes,Ready,Sarju,CPU,17-08-25
+1580,Male,CHO,Dell CPU,16-08-25,SSD,Yes,Ready,Sarju,CPU,17-08-25
+1581,Male,CHO,Acer CPU,17-08-25,Slow/Hang Problem,No,Ready,Sarju,CPU,19-08-25
+1582,Male,CHO,Acer Monitor,17-08-25,Not Work,No,Ready,Shajal,Monitor,17-08-25
+1583,Male,CHO,HP CPU,17-08-25,OS Problem,No,Ready,Sarju,CPU,19-08-25
+1584,Male,CHO,Lenovo Laptop,17-08-25,Auto-Restart,No,Ready,Sarju,CPU,19-08-25
+1585,Male,Arkay,HP CPU,17-08-25,OS Problem,No,Ready,Sarju,CPU,18-08-25
+1586,Female,CHO,Dell CPU,17-08-25,Slow/Hang Problem,No,Ready,Sarju,CPU,17-08-25
+1587,Male,CHO,Dell CPU,17-08-25,Auto-Restart,No,Ready,Sarju,CPU,17-08-25
+1588,Male,CHO,Dell CPU,17-08-25,Auto-Restart,No,Ready,Shuvo,Laptop,19-08-25
+1589,Male,CHO,HP Laptop,17-08-25,Battery,Yes,Ready,Shajal,Monitor,18-08-25
+1590,Male,Azmeri,Asus CPU,17-08-25,Motherboard,Yes,Ready,Shuvo,Laptop,20-08-25
+1591,Male,Azmeri,Dell CPU,17-08-25,Motherboard,Yes,Ready,Sarju,CPU,25-08-25
+1592,Male,CHO,Acer CPU,17-08-25,OS Problem,No,Ready,Shuvo,Laptop,19-08-25
+1593,Male,ACCL,UPS,17-08-25,Not Work,No,Ready,Moshiur,Printer/UPS,24-08-25
+1594,Male,ACML,Epson Printer,17-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,28-08-25
+1595,Male,ACML,Epson Printer,18-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,18-08-25
+1596,Male,CHO,Lenovo Laptop,18-08-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,18-08-25
+1597,Male,CHO,Lenovo Laptop,18-08-25,New Laptop/CPU,Yes,Ready,Shajal,Monitor,18-08-25
+1598,Male,Hamza,Dell Laptop,18-08-25,OS Problem,No,Ready,Sarju,CPU,19-08-25
+1599,Male,Hamza,Lenovo Monitor,18-08-25,Broken Issue,No,Replace,Shajal,Monitor,18-08-25
+1600,Male,CHO,Epson Printer,18-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,19-08-25
+1601,Male,CHO,Acer CPU,18-08-25,Motherboard,Yes,Ready,Shuvo,Laptop,18-08-25
+1602,Male,ACCL,Dell Monitor,18-08-25,Not Work,No,Ready,Shajal,Monitor,18-08-25
+1603,Male,CHO,HP Laptop,18-08-25,Broken Issue,No,Replace,Shajal,Monitor,18-08-05
+1604,Female,CHO,Asus CPU,18-08-25,Slow/Hang Problem,No,Ready,Shajal,Monitor,19-08-25
+1605,Male,CHO,Epson Printer,19-08-25,Color Problem,No,Ready,Moshiur,Printer/UPS,22-08-25
+1606,Female,CHO,Asus CPU,19-08-25,OS Problem,No,Ready,Sarju,CPU,19-08-25
+1607,Male,CHO,HP CPU,19-08-25,OS Problem,No,Ready,Sarju,CPU,19-08-25
+1608,Male,CHO,Dell CPU,19-08-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,20-08-25
+1609,Male,CHO,Dell CPU,19-08-25,New Laptop/CPU,Yes,Ready,Shuvo,Laptop,21--8-25
+1610,Female,CHO,Dell Laptop,19-08-25,SSD,Yes,Ready,Shuvo,Laptop,20-08-25
+1611,Male,Arkay,HP Printer,19-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,20-08-25
+1612,Male,Arkay,HP Printer,19-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,20-08-25
+1613,Male,CHO,Dell Laptop,19-08-25,OS Problem,No,Ready,Shajal,Monitor,20-08-25
+1614,Male,CHO,Lenovo Monitor,20-08-25,Not Work,No,Ready,Shajal,Monitor,20-08-25
+1615,Male,CHO,Asus CPU,20-08-25,New Laptop/CPU,Yes,Ready,Shajal,Monitor,20-08-25
+1616,Male,NKK,Dell CPU,20-08-25,OS Problem,No,Ready,Sarju,CPU,21-08-25
+1617,Male,CHO,HP Printer,20-08-25,Color Problem,No,Ready,Moshiur,Printer/UPS,21-08-25
+1618,Male,CHO,HP Laptop,20-08-25,OS Problem,No,Ready,Shuvo,Laptop,24-08-25
+1619,Male,CHO,Asus CPU,20-08-25,Slow/Hang Problem,No,Ready,Shajal,Monitor,24-08-25
+1620,Male,Cortz,Dell CPU,21-08-25,HDD,Yes,Ready,Sarju,CPU,02-09-25
+1621,Male,CHO,Lenovo Laptop,21-08-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,23-08-25
+1622,Male,CHO,UPS,21-08-25,Not Work,No,Ready,Moshiur,Printer/UPS,28-08-25
+1623,Male,CHO,Epson Printer,21-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,21-08-25
+1624,Male,Hamza,Dell CPU,21-08-25,Auto-Restart,No,Ready,Sarju,CPU,21-08-25
+1625,Male,Hamza,Dell CPU,21-08-25,OS Problem,No,Ready,Sarju,CPU,02-09-25
+1626,Male,CHO,Dell CPU,21-08-25,Slow/Hang Problem,No,Ready,Sarju,CPU,22-08-25
+1627,Male,ALP,HP Laptop,21-08-25,Slow/Hang Problem,No,Ready,Sarju,CPU,25-825
+1628,Male,CHO,Epson Printer,23-08-25,Color Problem,No,Ready,Moshiur,Printer/UPS,30-08-25
+1629,Male,Nafa,Epson Printer,24-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,24-08-25
+1630,Female,CHO,Asus Monitor,24-08-25,Not Work,No,Ready,Sarju,Monitor,24-08-25
+1631,Male,CHO,Lenovo Monitor,24-08-25,Not Work,No,Ready,Shuvo,Monitor,25-08-25
+1632,Male,CHO,Asus CPU,24-08-25,SSD,Yes,Ready,Sarju,CPU,25-08-25
+1633,Male,CHO,Dell CPU,24-08-25,OS Problem,No,Ready,Sarju,CPU,25-08-25
+1634,Male,Arkay,HP CPU,24-08-25,HDD,Yes,Ready,Sarju,CPU,01-09-25
+1635,Male,CHO,HP Laptop,24-08-25,New Laptop/CPU,Yes,Ready,Shajal,Monitor,24-08-25
+1636,Male,CHO,HP Printer,24-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,24-08-25
+1637,Female,CHO,Asus CPU,24-08-25,OS Problem,No,Ready,Shajal,Monitor,25-08-25
+1638,Male,AFL,Epson Printer,24-08-25,Not Work,No,Ready,Moshiur,Printer/UPS,26-08-25
+1639,Male,CHO,Epson Printer,24-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,24-08-25
+1640,Male,Hamza,Dell Laptop,24-08-25,OS Problem,No,Ready,Sarju,CPU,24-08-25
+1641,Male,CHO,HP Printer,24-08-25,Not Work,No,Ready,Moshiur,Printer/UPS,24-08-25
+1642,Male,Nafa,HP CPU,24-08-25,Not Work,No,Ready,Shajal,Monitor,04-08-25
+1643,Male,CHO,Lenovo Laptop,24-08-25,Motherboard,Yes,Ready,Shajal,Monitor,24-08-25
+1644,Male,ACCL,HP Printer,24-08-25,Not Work,No,Ready,Moshiur,Printer/UPS,27-08-25
+1645,Female,ACCL,Canon Printer,24-08-25,Not Work,No,Ready,Moshiur,Printer/UPS,31-08-25
+1646,Male,CHO,HP Printer,24-08-25,Color Problem,No,Ready,Moshiur,Printer/UPS,25-08-25
+1647,Male,Safa,HP Printer,24-08-25,Color Problem,No,Ready,Moshiur,Printer/UPS,26-08-25
+1648,Male,Safa,Epson Printer,24-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,27-08-25
+1649,Male,ACCL,HP CPU,24-08-25,OS Problem,No,Warranty Issue,Shuvo,Laptop,25-08-05
+1650,Male,Hamza,UPS,24-08-25,Not Work,No,Ready,Moshiur,Printer/UPS,02-09-25
+1651,Male,CHO,HP Laptop,25-08-25,Keyboard/Touchpad,No,Ready,Shajal,Monitor,25-08-25
+1652,Male,ACML,Dell Laptop,25-08-25,Keyboard/Touchpad,No,Ready,Sarju,CPU,25-08-25
+1653,Male,CHO,HP Printer,25-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,26-08-25
+1654,Male,CHO,Dell Laptop,25-08-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,29-6-8-25
+1655,Male,CHO,Lenovo Laptop,25-08-25,Motherboard,Yes,Ready,Sarju,CPU,25-08-25
+1656,Male,Nafa,Acer CPU,25-08-25,Slow/Hang Problem,No,Ready,Sarju,CPU,25-08-25
+1657,Male,CHO,HP Laptop,25-08-25,Not Work,No,Ready,Shajal,Monitor,25-08-25
+1658,Male,ALP,Canon Printer,25-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,28-08-25
+1659,Male,Cortz,Acer CPU,25-08-25,Not Work,No,Ready,Shajal,Monitor,25-08-25
+1660,Male,Cortz,UPS,25-08-25,Not Work,No,Ready,Moshiur,Printer/UPS,30-08-25
+1661,Male,CHO,Epson Printer,26-08-25,Print Problem,No,Servicing Issue,Moshiur,Printer/UPS,04-09-25
+1662,Male,CHO,Epson Printer,26-08-25,Not Work,No,Ready,Moshiur,Printer/UPS,26-08-25
+1663,Male,CHO,Acer CPU,26-08-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,28-08-25
+1664,Male,CHO,Dell Laptop,26-08-25,Battery,Yes,Ready,Shajal,Monitor,31-08-25
+1665,Male,CHO,Dell Laptop,26-08-25,Slow/Hang Problem,No,Ready,Moshiur,Printer/UPS,26-08-25
+1666,Male,CHO,Epson Printer,26-08-25,Color Problem,No,Ready,Moshiur,Printer/UPS,30-08-25
+1667,Male,CHO,Dell Laptop,27-08-25,HDD,Yes,Ready,Shajal,Monitor,30-08-25
+1668,Male,CHO,Dell Laptop,27-08-25,HDD,Yes,Ready,Shajal,Monitor,30-08-25
+1669,Male,CHO,Lenovo Laptop,27-08-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,27-08-25
+1670,Male,Arkay,Dell Laptop,27-08-25,OS Problem,No,Ready,Sarju,CPU,31-08-25
+1671,Male,CHO,Brother Printer,27-08-25,Color Problem,No,Ready,Moshiur,Printer/UPS,01-09-25
+1672,Male,CHO,Acer Laptop,27-08-25,OS Problem,No,Ready,Shajal,Monitor,27-08-25
+1673,Male,CHO,HP Laptop,27-08-25,Battery,Yes,Ready,Shuvo,Laptop,27-08-25
+1674,Male,CHO,Lenovo Laptop,27-08-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,28-08-25
+1675,Male,CHO,Acer Monitor,27-08-25,Display,Yes,Replace,Shajal,Monitor,27-08-25
+1676,Male,CHO,Canon Printer,27-08-25,Print Problem,No,Ready,Moshiur,Printer/UPS,28-08-25
+1677,Male,CHO,Lenovo CPU,27-08-25,New Laptop/CPU,Yes,Ready,Shuvo,Laptop,28-08-25
+1678,Male,CHO,HP Laptop,27-08-25,Slow/Hang Problem,No,Ready,Shajal,Monitor,27-08-25
+1679,Male,CHO,HP Laptop,27-08-25,Slow/Hang Problem,No,Ready,Shajal,Monitor,27-08-25
+1680,Male,CHO,Lenovo CPU,27-08-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,27-08-25
+1681,Male,AFL,Epson Printer,28-08-25,Not Work,No,Ready,Moshiur,Printer/UPS,04-09-25
+1682,Male,ALP,Epson Printer,28-08-25,Not Work,No,Ready,Moshiur,Printer/UPS,04-09-25
+1683,Male,CHO,HP Laptop,28-08-25,Slow/Hang Problem,No,Ready,Shajal,Monitor,28-08-25
+1684,Male,CHO,Acer CPU,28-08-25,New Laptop/CPU,Yes,Ready,Shajal,Monitor,29-08-25
+1685,Male,CHO,Acer Laptop,30-08-25,SSD,Yes,Ready,Shuvo,Laptop,01-09-25
+1686,Male,Nafa,Acer Monitor,30-08-25,Display,Yes,Replace,Shajal,Monitor,30-08-25
+1687,Male,Nafa,UPS,30-08-25,Not Work,No,Ready,Moshiur,Printer/UPS,01-09-25
+1688,Male,Nafa,UPS,30-08-25,Not Work,No,Ready,Moshiur,Printer/UPS,01-09-25
+1689,Male,Arkay,HP Laptop,31-08-25,New Laptop/CPU,Yes,Ready,Sarju,CPU,31-08-25
+1690,Male,CHO,Dell Laptop,31-08-25,Display,No,Ready,Shajal,Monitor,31-08-25
+1691,Male,CHO,Lenovo Laptop,31-08-25,OS Problem,No,Ready,Shuvo,Laptop,01-09-25
+1692,Male,Safa,Acer CPU,31-08-25,Auto-Restart,No,Ready,Shajal,Monitor,01-09-25
+1693,Male,Safa,Acer Monitor,31-08-25,Not Work,No,Replace,Sarju,CPU,31-08-25
+1694,Male,Safa,Canon Printer,31-08-25,Not Work,No,Ready,Moshiur,Printer/UPS,04-09-25
+1695,Male,CHO,HP CPU,31-08-25,HDD,Yes,Ready,Shajal,Monitor,03-09-25
