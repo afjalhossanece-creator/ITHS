@@ -36,8 +36,6 @@ from sklearn.model_selection import train_test_split,cross_val_score
 from sklearn.model_selection import RandomizedSearchCV,GridSearchCV
 from sklearn.metrics import confusion_matrix,classification_report
 from sklearn.metrics import precision_score,recall_score,f1_score
-# from sklearn.metrics import plot_roc_curve  #(not working)
-# from sklearn.metrics import plot_roc_curve #(working)
 from sklearn.metrics import roc_curve, auc
 
 df = pd.read_csv("/content/ITHSD-Final DataSet.csv")
@@ -168,8 +166,6 @@ y_REG = df[['DeliveredBy (days)']]
 y_REG.head()
 
 X_REG.head()
-
-df.columns
 
 X_CLS = df.drop(['DeliveredBy (days)', 'RgSerialNO', 'UI', 'Location', 'ProductModel', 'SolvedBy_E', 'ReceiveYear', 'ReceiveMonth',
        'ReceiveDay', 'DeliveryYear', 'DeliveryMonth', 'DeliveryDay', 'Problem', 'Solution', 'Requisition', 'SolvedBy', 'Speciality'], axis=1)
@@ -390,7 +386,7 @@ from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Assuming y_test_cls and y_pred_cls are already defined from the previous cell
+# y_test_cls and y_pred_cls are already defined from the previous cell
 y_pred = y_pred_cls
 y_test = y_test_cls
 
@@ -413,7 +409,7 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import label_binarize
 import numpy as np
 
-# Assuming y_test_cls and rf_classifier are available from previous cells
+# y_test_cls and rf_classifier are available from previous cells
 
 # Binarize the output
 y_test_bin = label_binarize(y_test_cls, classes=np.unique(y_CLS))
@@ -450,7 +446,7 @@ import xgboost as xgb
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix, accuracy_score, classification_report
 
-# Split data into training and testing sets (assuming X_CLS and y_CLS are defined)
+# Split data into training and testing sets ( X_CLS and y_CLS are defined)
 X_train_cls, X_test_cls, y_train_cls, y_test_cls = train_test_split(X_CLS, y_CLS, test_size=0.2, random_state=42)
 
 # Initialize and train the XGBClassifier
@@ -475,7 +471,7 @@ from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Assuming y_test_cls and y_pred_xgb are available from previous cells
+#  y_test_cls and y_pred_xgb are available from previous cells
 cm_xgb = confusion_matrix(y_test_cls, y_pred_xgb)
 
 # Get unique labels from the original target variable (y_CLS)
@@ -495,7 +491,7 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import label_binarize
 import numpy as np
 
-# Assuming y_test_cls and xgb_classifier are available from previous cells
+# y_test_cls and xgb_classifier are available from previous cells
 
 # Binarize the output
 y_test_bin = label_binarize(y_test_cls, classes=np.unique(y_CLS))
@@ -532,7 +528,7 @@ import lightgbm as lgb
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix, accuracy_score, classification_report
 
-# Split data into training and testing sets (assuming X_CLS and y_CLS are defined)
+# Split data into training and testing sets ( X_CLS and y_CLS are defined)
 X_train_cls, X_test_cls, y_train_cls, y_test_cls = train_test_split(X_CLS, y_CLS, test_size=0.2, random_state=42)
 
 # Initialize and train the LGBMClassifier
@@ -557,7 +553,7 @@ from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Assuming y_test_cls and y_pred_lgbm are available from previous cells
+# y_test_cls and y_pred_lgbm are available from previous cells
 cm_lgbm = confusion_matrix(y_test_cls, y_pred_lgbm)
 
 # Get unique labels from the original target variable (y_CLS)
@@ -577,7 +573,7 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import label_binarize
 import numpy as np
 
-# Assuming y_test_cls and lgbm_classifier are available from previous cells
+# y_test_cls and lgbm_classifier are available from previous cells
 
 # Binarize the output
 y_test_bin = label_binarize(y_test_cls, classes=np.unique(y_CLS))
@@ -620,7 +616,7 @@ lgbm_classifier_loaded = joblib.load('lgbm_classifier_checkpoint.pkl')
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Assuming accuracy, accuracy_xgb, and accuracy_lgbm are available from previous cells
+# accuracy, accuracy_xgb, and accuracy_lgbm are available from previous cells
 
 models = ['Random Forest', 'XGBoost', 'LightGBM']
 accuracies = [accuracy, accuracy_xgb, accuracy_lgbm]
@@ -650,17 +646,10 @@ solved_by_mapping = {
     3: 'Shuvo'
 }
 
-# Example new data for prediction (replace with your actual new data)
-# Ensure the order of features for the classifier matches X_CLS:
-# 'UI_E', 'Location_E', 'ProductModel_E', 'Problem_E', 'Solution_E', 'Requisition_E', 'Speciality_E'
-new_data_cls = np.array([[1, 7, 12, 9, 0, 1, 0]]) # Example classification data point
 
-# Ensure the order of features for the regressor matches X_REG:
-# 'ReceiveYear', 'ReceiveMonth', 'ReceiveDay', 'DeliveryYear', 'DeliveryMonth', 'DeliveryDay'
-# Note: For predicting 'DeliveredBy (days)', the DeliveryDate related features might not be available beforehand.
-# If you want to predict the delivery time based on receive date and other features, you'll need to adjust the regressor input accordingly.
-# Assuming you have some hypothetical delivery date related features for the example:
-new_data_reg = np.array([[2025, 7, 1, 2025, 7, 5]]) # Example regression data point (Receive 2025-07-01, Delivery 2025-07-05)
+new_data_cls = np.array([[1, 7, 12, 9, 0, 1, 0]])
+
+new_data_reg = np.array([[2025, 7, 1, 2025, 7, 5]])
 
 
 # Make the classification prediction using the loaded LightGBM model
@@ -671,15 +660,8 @@ predicted_solver_name = solved_by_mapping.get(predicted_solver_encoded, "Unknown
 print(f"For the given input data:")
 print(f"- Predicted Solver (Classification): {predicted_solver_name}")
 
-# Make the regression prediction using the loaded Random Forest model
-# Note: The regressor predicts 'DeliveredBy (days)' based on date components.
-# If you want to predict the number of days based on other features as well,
-# the X_REG would need to include those features. Based on your X_REG definition,
 # it only includes date components.
 prediction_reg = rf_regressor_loaded.predict(new_data_reg.reshape(1, -1))
 predicted_delivered_by_days = prediction_reg[0]
 
 print(f"- Predicted Delivered By (days) (Regression): {predicted_delivered_by_days:.2f} days")
-
-# You can now use these predictions together, for example:
-# "The predicted solver for this case is [predicted_solver_name] and the predicted service time is approximately [predicted_delivered_by_days] days."
